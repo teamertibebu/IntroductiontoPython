@@ -11,4 +11,4 @@ counter -= 1
 counter *= 2
 
 # What will counter be after all these operations?
-prediction = ???
+prediction = 6

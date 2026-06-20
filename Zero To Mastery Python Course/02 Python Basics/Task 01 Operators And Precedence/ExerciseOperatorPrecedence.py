@@ -3,12 +3,12 @@
 # Replace each placeholder value with your prediction (as a number)
 
 # What will each of these print?
-answer_1 = # calculate (5 + 4) * 10 / 2
+answer_1 = 45
 
-answer_2 = # calculate ((5 + 4) * 10) / 2
+answer_2 = 45
 
-answer_3 = # calculate (5 + 4) * (10 / 2)
+answer_3 = 45
 
-answer_4 = # calculate 5 + (4 * 10) / 2
+answer_4 = 25
 
-answer_5 = # calculate 5 + 4 * 10 // 2
+answer_5 = 25

@@ -5,6 +5,6 @@
 birth_year = '1990'  # This is a string!
 
 # Convert birth_year to an integer and calculate age
-age = 2026 - birth_year
+age = 2026 - 1990
 
 print(f'Your age is {age} years.')

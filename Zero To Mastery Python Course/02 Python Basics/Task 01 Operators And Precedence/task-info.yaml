@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 208
-        length: 28
+        length: 2
         placeholder_text: "# calculate (5 + 4) * 10 / 2"
         initial_state:
           length: 28
@@ -16,50 +16,53 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
         selected: false
-        status: Unchecked
-      - offset: 249
-        length: 30
+        status: Solved
+      - offset: 223
+        length: 2
         placeholder_text: "# calculate ((5 + 4) * 10) / 2"
         initial_state:
           length: 30
           offset: 249
         initialized_from_dependency: false
         encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
-        selected: false
-        status: Unchecked
-      - offset: 292
-        length: 30
+        selected: true
+        status: Solved
+      - offset: 238
+        length: 2
         placeholder_text: "# calculate (5 + 4) * (10 / 2)"
         initial_state:
           length: 30
           offset: 292
         initialized_from_dependency: false
         encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
-        selected: false
-        status: Unchecked
-      - offset: 335
-        length: 28
+        selected: true
+        status: Solved
+      - offset: 253
+        length: 2
         placeholder_text: "# calculate 5 + (4 * 10) / 2"
         initial_state:
           length: 28
           offset: 335
         initialized_from_dependency: false
         encrypted_possible_answer: wiHGWtzXH9u6WkyPERaJDg==
-        selected: false
-        status: Unchecked
-      - offset: 376
-        length: 27
+        selected: true
+        status: Solved
+      - offset: 268
+        length: 2
         placeholder_text: "# calculate 5 + 4 * 10 // 2"
         initial_state:
           length: 27
           offset: 376
         initialized_from_dependency: false
         encrypted_possible_answer: E59oQjl1SZMNQ69wPo94bg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 09 Jun 2026 10:33:21 UTC"
 record: -1
