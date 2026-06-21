@@ -11,7 +11,7 @@ files:
     visible: true
     placeholders:
       - offset: 74
-        length: 3
+        length: 13
         placeholder_text: ???
         initial_state:
           length: 3
@@ -19,28 +19,28 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: iAhsJxPnvS2a+9pnQswPrQ==
         selected: false
-        status: Unchecked
-      - offset: 151
-        length: 3
+        status: Solved
+      - offset: 161
+        length: 1
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 151
         initialized_from_dependency: false
         encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
-        selected: false
-        status: Unchecked
-      - offset: 204
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 212
+        length: 2
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 204
         initialized_from_dependency: false
         encrypted_possible_answer: GvjGNl/PAFuzil5Msm5NzA==
-        selected: false
-        status: Unchecked
-      - offset: 258
+        selected: true
+        status: Solved
+      - offset: 265
         length: 3
         placeholder_text: ???
         initial_state:
@@ -49,37 +49,40 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: zRJVodu0JKkPf4e99aZZcw==
         selected: false
-        status: Unchecked
-      - offset: 327
-        length: 3
+        status: Solved
+      - offset: 334
+        length: 13
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 327
         initialized_from_dependency: false
         encrypted_possible_answer: /SOasAqUHfKv+g37MJXROw==
-        selected: false
-        status: Unchecked
-      - offset: 445
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 462
+        length: 13
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 445
         initialized_from_dependency: false
         encrypted_possible_answer: 07EDPozOc7B1/BhbL4Ra0Q==
-        selected: false
-        status: Unchecked
-      - offset: 484
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 511
+        length: 18
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 484
         initialized_from_dependency: false
         encrypted_possible_answer: 79r5iBs/12y21f3DrZ/+w6UYNETuRgEQqAK+2LSc7aY=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:10:07 UTC"
 record: -1

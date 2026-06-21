@@ -4,4 +4,6 @@
 friends = ['Simon', 'Patty', 'Joy', 'Carrie', 'Amira', 'Chu']
 new_friend = ['Stanley']
 
-friends = friends.sort() + new_friend  # Wrong solution, try to fix it
+friends = friends + new_friend
+
+friends = sorted(friends) # Wrong solution, try to fix it

@@ -15,11 +15,14 @@ files:
           offset: 157
         initialized_from_dependency: false
         encrypted_possible_answer: ILFXJVCy65auCUkHqspVzQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:10:58 UTC"
 record: -1

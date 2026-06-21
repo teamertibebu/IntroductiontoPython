@@ -11,37 +11,37 @@ files:
     visible: true
     placeholders:
       - offset: 124
-        length: 3
+        length: 16
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 124
         initialized_from_dependency: false
         encrypted_possible_answer: XbxYbpkZ3RBzS5EsaILEbnJx4xvlnGSob+OkuUu0HSQ=
-        selected: false
-        status: Unchecked
-      - offset: 176
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 189
+        length: 21
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 176
         initialized_from_dependency: false
         encrypted_possible_answer: E49CsKGbHUYIxUMvBLnX3I+LaHGBRFBwxneMiz6EdYM=
-        selected: false
-        status: Unchecked
-      - offset: 227
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 258
+        length: 14
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 227
         initialized_from_dependency: false
         encrypted_possible_answer: Z34kH2SuGP4yWJtzmFnJwg==
-        selected: false
-        status: Unchecked
-      - offset: 286
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 328
+        length: 19
         placeholder_text: ???
         initial_state:
           length: 3
@@ -49,17 +49,20 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 34mzI5r39F9qlZDGuYXnY9Teoxtp9ILwBKri+Lznclg=
         selected: false
-        status: Unchecked
-      - offset: 357
-        length: 3
+        status: Solved
+      - offset: 415
+        length: 15
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 357
         initialized_from_dependency: false
         encrypted_possible_answer: TURxwUuVqwKn+TMXPaavAg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:14:37 UTC"
 record: -1

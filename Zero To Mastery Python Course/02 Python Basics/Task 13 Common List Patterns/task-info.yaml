@@ -10,8 +10,8 @@ files:
   - name: ExerciseCommonListPatterns.py
     visible: true
     placeholders:
-      - offset: 187
-        length: 70
+      - offset: 219
+        length: 57
         placeholder_text: "friends = friends.sort() + new_friend  # Wrong solution, try\
       \ to fix it"
         initial_state:
@@ -19,8 +19,11 @@ files:
           offset: 187
         initialized_from_dependency: false
         encrypted_possible_answer: nJSpoIJ0CEWHse4EZIlwQ3AFh1ILZgcQ6Q5QyOCCXoV39UIYcni/Y7DD+5/U2fiA
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:17:01 UTC"
 record: -1

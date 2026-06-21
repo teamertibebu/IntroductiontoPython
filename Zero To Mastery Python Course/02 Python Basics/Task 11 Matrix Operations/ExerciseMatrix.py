@@ -4,4 +4,4 @@
 basket = ["Banana", ["Apples", ["Oranges"], "Blueberries"]]
 
 # Access "Oranges" and assign it to result
-result = basket[?][?][?]
+result = basket[1][1][0]

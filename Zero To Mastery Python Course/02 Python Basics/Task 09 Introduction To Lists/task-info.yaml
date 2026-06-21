@@ -8,18 +8,21 @@ files:
     visible: true
     placeholders:
       - offset: 207
-        length: 3
+        length: 1
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 207
         initialized_from_dependency: false
         encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:07:22 UTC"
 record: -1

@@ -2,23 +2,23 @@
 # Complete the list operations
 
 # Create lists
-letters = [???]  # Create list with 'a', 'b', 'c'
+letters = ['a', 'b', 'c']  # Create list with 'a', 'b', 'c'
 
 # List operations
-answer_1 = letters[???]  # Access the second element
-answer_2 = letters[???]  # Access second from the end
-answer_3 = letters[???]  # Slice 1..3
+answer_1 = letters[1]  # Access the second element
+answer_2 = letters[-2]  # Access second from the end
+answer_3 = letters[1:3]  # Slice 1..3
 
 # List modification
 letters[0] = 'z'
-answer_4 = [???] # Predict numbers list after the change
+answer_4 = ['z', 'b', 'c'] # Predict numbers list after the change
 
 # List operations
 bonus = letters + ['e']
 letters[0] = 'x'
 
-answer_5 = [???] # Predict numbers now
-answer_6 = [???]  # Predict bonus now
+answer_5 = ['x', 'b', 'c'] # Predict numbers now
+answer_6 = ['z', 'b', 'c', 'e']  # Predict bonus now
 
 
 

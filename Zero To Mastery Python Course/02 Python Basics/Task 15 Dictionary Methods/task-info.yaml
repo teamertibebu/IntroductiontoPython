@@ -11,7 +11,7 @@ files:
     visible: true
     placeholders:
       - offset: 212
-        length: 3
+        length: 9
         placeholder_text: ???
         initial_state:
           length: 3
@@ -19,47 +19,50 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 59qPNo7nac/ZTnZjYgYQug==
         selected: false
-        status: Unchecked
-      - offset: 286
-        length: 3
+        status: Solved
+      - offset: 292
+        length: 16
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 286
         initialized_from_dependency: false
         encrypted_possible_answer: HqcgMV0OPOq9M6M3FkuEckmPbrU5AFg3tNcz6QRmNHc=
-        selected: false
-        status: Unchecked
-      - offset: 357
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 376
+        length: 14
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 357
         initialized_from_dependency: false
         encrypted_possible_answer: tFqB6haRzwwbdGhxFpbovA==
-        selected: false
-        status: Unchecked
-      - offset: 431
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 461
+        length: 24
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 431
         initialized_from_dependency: false
         encrypted_possible_answer: 2CsGPsUJ1ei4bEfcfjudkLaCDwGrpe4/78k6CKlK7Qo=
-        selected: false
-        status: Unchecked
-      - offset: 526
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 577
+        length: 18
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 526
         initialized_from_dependency: false
         encrypted_possible_answer: wczXiF2qMASy8sZagYT/0BOyJD5JHR6QO0EHd77hcFU=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jun 2026 03:28:14 UTC"
 record: -1

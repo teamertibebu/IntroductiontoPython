@@ -7,8 +7,8 @@ files:
   - name: ExerciseAugmentedAssignmentOperator.py
     visible: true
     placeholders:
-      - offset: 256
-        length: 1
+      - offset: 243
+        length: 15
         placeholder_text: ???
         initial_state:
           length: 3
